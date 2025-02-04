@@ -1,16 +1,13 @@
-# Suckson admin
-<div align="center"> <a href="https://github.com/suckson/suckson_admin"> <img alt="vites-admin-pro Logo" width="200" height="200" src="https://zbbf9-hw.ahtv.cn/ahtv-obs/20210811/d5b6f8d7-b759-243d-b8f3-906a6b8570bf.png"> </a> <br> <br>
-
-<h1>Suckson admin（Element plus）</h1>
+<h1>Suckson admin🎉🎉（Element plus）</h1>
 </div>
 
-## 🎉🎉简介
-Suckson admin是一个免费开源的中后台模版。使用了最新的`vue3.0+`,`vite2`, `Element plus+`等主流技术开发，开箱即用的中后台前端解决方案。后端采用很火框架[若依](https://doc.ruoyi.vip)，在使用若依的过程中发现若依的前端封装很不易用，结合以前的工作经验，封装了一些常用的。开箱即用。当然也提供了一些有用但不是很完美的业务组件封装。希望能对大家有所帮助。
+## 简介
+Suckson admin 是一个免费开源的中后台模版。使用了最新的`vue3.0+`,`vite2`, `Element plus+`等主流技术开发，开箱即用的中后台前端解决方案。后端采用很火框架[若依](https://doc.ruoyi.vip)，在使用若依的过程中发现若依的前端封装很不易用，结合以前的工作经验，封装了一些常用的。开箱即用。当然也提供了一些有用但不是很完美的业务组件封装。希望能对大家有所帮助。
 
-## code🎉🎉 哲学
+## code 哲学
      `简单` AND `清晰` 不管逻辑有多麽复杂！编写代码++命名代码的原则是：少写代码+清爽。
     
-## 🎉🎉组件
+## 组件
 - `SearchForm` **头部搜索**
 - `ProTable` **表格**
 - `ImageUpload` **图片上传**
@@ -21,7 +18,7 @@ Suckson admin是一个免费开源的中后台模版。使用了最新的`vue3.0
 - `FormModal` **弹窗表单**
 - [And More!!!](https://github.com/scoopcn/scoopcn/tree/master/bucket)
 
-## 🎉🎉特性
+## 特性
 
 1 自动生成路由
   `view`路径下的目录自动根据路由,自动注册，后台配置菜单，结合权限系统使用。
@@ -35,10 +32,10 @@ Suckson admin是一个免费开源的中后台模版。使用了最新的`vue3.0
 4、Cesium库常见功能封装
 cesium，绘制模型，三维数据坐标转换。
 
-## 🎉🎉账号
+## 账号
 admin/123456
 
-## 🎉🎉安装教程
+## 安装教程
 
 ```bash
 cd suckson-admin
@@ -58,7 +55,7 @@ yarn dev
 ```bash
 yarn build
 ```
-## 🎉🎉Git 贡献提交规范
+## Git 贡献提交规范
 
 - 参考 [vue](https://github.com/vuejs/vue/blob/dev/.github/COMMIT_CONVENTION.md) 规范 ([Angular](https://github.com/conventional-changelog/conventional-changelog/tree/master/packages/conventional-changelog-angular))
 
@@ -78,7 +75,7 @@ yarn build
 
 
 
-## 🎉🎉项目目录介绍
+## 项目目录介绍
 ``` 
 |-- bin     //基础库封装文件夹
     |-- map     //地图封装的文件夹 
@@ -96,7 +93,7 @@ yarn build
 |-- vite.config.js  //vite脚手架配置文件
 ```
 
-## 🎉🎉项目技术栈
+## 项目技术栈
 - vite  
 - vue3        
 - vue-router 
@@ -104,7 +101,7 @@ yarn build
 - axios     
 - sass     
 - cesium    
-## 🎉🎉交流 + 喝咖啡
+## 交流 + 喝咖啡
 Suckson-Admin 是完全开源免费的项目，在帮助开发者更方便地进行中大型管理系统开发，作者wx：suckson
 
 
