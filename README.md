@@ -5,8 +5,8 @@
 Suckson admin 是一个免费开源的中后台模版。使用了最新的`vue3.0+`,`vite2`, `Element plus+`等主流技术开发，开箱即用的中后台前端解决方案。后端采用很火框架[若依](https://doc.ruoyi.vip)，在使用若依的过程中发现若依的前端封装很不易用，结合以前的工作经验，封装了一些常用的。开箱即用。当然也提供了一些有用但不是很完美的业务组件封装。希望能对大家有所帮助。
 
 ## code 哲学
-     `简单` AND `清晰` 不管逻辑有多麽复杂！编写代码++命名代码的原则是：少写代码+清爽。
-    
+`简单` AND `清晰` 不管逻辑有多麽复杂！编写代码++命名代码的原则是：少写代码+清爽。
+
 ## 组件
 - `SearchForm` **头部搜索**
 - `ProTable` **表格**
@@ -20,20 +20,17 @@ Suckson admin 是一个免费开源的中后台模版。使用了最新的`vue3.
 
 ## 特性
 
-1 自动生成路由
-  `view`路径下的目录自动根据路由,自动注册，后台配置菜单，结合权限系统使用。
-
-2、自动生成API
+#### 自动生成路由
+  view路径下的目录自动根据路由,自动注册，后台配置菜单，结合权限系统使用。
+#### 自动生成API
 @bin /api /index 自动生成，只需要自己配置APIfox  相应的连接地址即可自动生成API，文档详见 
 
-3、移动端适配方案
+#### 移动端适配方案
 关于移动端rem常用布局，在paid，或者等比例缩放的情况加，作者封装了常见的class。已方便市场的开发。
 
-4、Cesium库常见功能封装
+#### Cesium库常见功能封装
 cesium，绘制模型，三维数据坐标转换。
 
-## 账号
-admin/123456
 
 ## 安装教程
 
@@ -93,6 +90,9 @@ yarn build
 |-- vite.config.js  //vite脚手架配置文件
 ```
 
+## 账号
+admin/123456
+
 ## 项目技术栈
 - vite  
 - vue3        
@@ -100,9 +100,14 @@ yarn build
 - vuex        
 - axios     
 - sass     
-- cesium    
+- cesium   
+
 ## 交流 + 喝咖啡
 Suckson-Admin 是完全开源免费的项目，在帮助开发者更方便地进行中大型管理系统开发，作者wx：suckson
+<div style="display: flex; justify-content: space-between;">
+    <img src="http://qiniublog.suckson.com/article/f7379f5d90fc5c544f84509579e29d76.jpg" alt="Image 1" style="width: 156px;">
+    <img src="http://qiniublog.suckson.com/article/7f79f5e6c357dc9097b18af4fae83045.jpg" alt="Image 2" style="width: 156px;">
+</div>
 
 
 
